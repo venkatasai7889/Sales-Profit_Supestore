@@ -4,6 +4,10 @@ This project involves end-to-end analysis of sales and profit data from a fictit
 
 ---
 
+![Superstore](SuperstoreUSA.png)
+
+---
+
 ## 🎯 Objective
 
 To analyze Superstore's historical sales data and deliver business insights using interactive dashboards. This helps stakeholders understand:
